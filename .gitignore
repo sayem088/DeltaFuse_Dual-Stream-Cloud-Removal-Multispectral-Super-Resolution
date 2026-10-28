@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Large Datasets & Geotiff Imagery (DO NOT COMMIT LARGE RASTER DATA TO GIT)
+data/
+data/raw_geotiffs/
+data/patches_256/
+preprocessing/data/
+*.tif
+*.tiff
+*.geotiff
+*.h5
+*.hdf5
+*.nc
+*.zip
+*.tar
+*.tar.gz
+
+# PyTorch Model Checkpoints & Exported Weights
+checkpoints/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+
+# Earth Engine Credentials & Secret Configuration
+.env
+.env.local
+*.json
+!package.json
+!tsconfig.json
+service_account.json
+credentials
+.ee_token
+
+# Logs & Visualization Caches
+runs/
+wandb/
+*.log
+logs/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
