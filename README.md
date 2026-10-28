@@ -10,7 +10,7 @@
 
 > **Author:** Md Abu Sayem Sarker  
 > **Affiliation:** ClimateScholars Org • Department of Software Engineering, Daffodil International University  
-> **Contact:** [sayemsarker.swe@gmail.com](mailto:sayemsarker.swe@gmail.com) • [LinkedIn](https://linkedin.com/in/sayemsarker)
+> **Contact:**  • [LinkedIn](https://www.linkedin.com/in/mdabusayemsarker/)
 
 ---
 
